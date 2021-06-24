@@ -126,4 +126,4 @@ manager.publish('C1',
                 isActive=1,
                 sendMailSignal=1,
                 sendMobileSignal=1,
-                email='aar.frt@adss.com')
+                email='ambrishooty@gmail.com')
